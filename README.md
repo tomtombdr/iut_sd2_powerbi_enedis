@@ -7,3 +7,4 @@ On y retrouve :
 - l'ensemble des données qui ont servit à la construction du rapport (dossier "DATA")
 - une documentation fonctionnelle qui vient présenter les différentes fonctions du rapport et comment bien l'utiliser
 - une documentation technique qui vient présenter les comment a été construit le rapport ainsi que sa structure
+<img width="377" height="621" alt="image" src="https://github.com/user-attachments/assets/c193ca57-ec2a-4dbf-9fbe-091b73f5c58f" />
